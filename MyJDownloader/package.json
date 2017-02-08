@@ -1,0 +1,23 @@
+{
+  "name": "MyJDownlaoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Philipp Handle <admin@flips-soft.at>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://my.jdownloader.org/",
+    "serviceName": "MyJDownlaoder",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
